@@ -1,0 +1,1 @@
+# Plugin-Nyquist-New-Clip-Fix-for-Audacity
